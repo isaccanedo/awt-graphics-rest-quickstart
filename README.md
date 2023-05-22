@@ -1,6 +1,6 @@
 # Serviço da Web para imagens com marca d'água
 
-This quickstart demonstrates a use case for [Quarkus AWT extension](https://github.com/quarkusio/quarkus/tree/main/extensions/awt).
+Este início rápido demonstra um caso de uso para [extensão Quarkus AWT](https://github.com/quarkusio/quarkus/tree/main/extensions/awt).
 
 There is a single POST endpoint that consumes a multipart form data and returns an octet stream with a watermarked PNG image.
 For the sake of brevity, regardless of the image type posted, the service always returns a PNG image.
