@@ -3,7 +3,7 @@
 Este início rápido demonstra um caso de uso para [extensão Quarkus AWT](https://github.com/quarkusio/quarkus/tree/main/extensions/awt).
 
 Há um ponto de extremidade POST único que consome dados de um formulário de várias partes e retorna um fluxo de octetos com uma imagem PNG com marca d'água.
-For the sake of brevity, regardless of the image type posted, the service always returns a PNG image.
+Por uma questão de brevidade, independentemente do tipo de imagem postada, o serviço sempre retorna uma imagem PNG.
 
 [Quarkus AWT extension](https://github.com/quarkusio/quarkus/tree/main/extensions/awt) enables a set of ImageIO and AWT
 functionality in Quarkus Native images. See the extension documentation and tests to learn the available scope.
