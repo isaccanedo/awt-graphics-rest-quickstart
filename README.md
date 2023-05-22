@@ -2,7 +2,7 @@
 
 Este início rápido demonstra um caso de uso para [extensão Quarkus AWT](https://github.com/quarkusio/quarkus/tree/main/extensions/awt).
 
-There is a single POST endpoint that consumes a multipart form data and returns an octet stream with a watermarked PNG image.
+Há um ponto de extremidade POST único que consome dados de um formulário de várias partes e retorna um fluxo de octetos com uma imagem PNG com marca d'água.
 For the sake of brevity, regardless of the image type posted, the service always returns a PNG image.
 
 [Quarkus AWT extension](https://github.com/quarkusio/quarkus/tree/main/extensions/awt) enables a set of ImageIO and AWT
