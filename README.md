@@ -1,4 +1,4 @@
-# Web service to watermark images
+# Serviço da Web para imagens com marca d'água
 
 This quickstart demonstrates a use case for [Quarkus AWT extension](https://github.com/quarkusio/quarkus/tree/main/extensions/awt).
 
