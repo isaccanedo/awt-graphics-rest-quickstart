@@ -5,8 +5,8 @@ Este início rápido demonstra um caso de uso para [extensão Quarkus AWT](https
 Há um ponto de extremidade POST único que consome dados de um formulário de várias partes e retorna um fluxo de octetos com uma imagem PNG com marca d'água.
 Por uma questão de brevidade, independentemente do tipo de imagem postada, o serviço sempre retorna uma imagem PNG.
 
-[Quarkus AWT extension](https://github.com/quarkusio/quarkus/tree/main/extensions/awt) enables a set of ImageIO and AWT
-functionality in Quarkus Native images. See the extension documentation and tests to learn the available scope.
+[Extensão Quarkus AWT](https://github.com/quarkusio/quarkus/tree/main/extensions/awt) habilita um conjunto de ImageIO e AWT
+funcionalidade em imagens nativas do Quarkus. See the extension documentation and tests to learn the available scope.
 Given the nature of native libraries in JDK implementing various image processing algorithms,
 venturing outside the tested scope might result in native image build time or runtime failure.
 
