@@ -6,9 +6,9 @@ Há um ponto de extremidade POST único que consome dados de um formulário de v
 Por uma questão de brevidade, independentemente do tipo de imagem postada, o serviço sempre retorna uma imagem PNG.
 
 [Extensão Quarkus AWT](https://github.com/quarkusio/quarkus/tree/main/extensions/awt) habilita um conjunto de ImageIO e AWT
-funcionalidade em imagens nativas do Quarkus. See the extension documentation and tests to learn the available scope.
-Given the nature of native libraries in JDK implementing various image processing algorithms,
-venturing outside the tested scope might result in native image build time or runtime failure.
+funcionalidade em imagens nativas do Quarkus. Consulte a documentação e os testes da extensão para conhecer o escopo disponível.
+Dada a natureza das bibliotecas nativas no JDK implementando vários algoritmos de processamento de imagem,
+aventurar-se fora do escopo testado pode resultar em tempo de construção de imagem nativa ou falha de tempo de execução.
 
 # Additional system dependencies
 Note `microdnf` command installing `fontconfig` library in [Dockerfile.jvm](./src/main/docker/Dockerfile.jvm)
