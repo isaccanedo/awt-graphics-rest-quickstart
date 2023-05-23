@@ -11,7 +11,7 @@ Dada a natureza das bibliotecas nativas no JDK implementando vários algoritmos 
 aventurar-se fora do escopo testado pode resultar em tempo de construção de imagem nativa ou falha de tempo de execução.
 
 # Dependências adicionais do sistema
-Note `microdnf` command installing `fontconfig` library in [Dockerfile.jvm](./src/main/docker/Dockerfile.jvm)
+Observação `microdnf` command installing `fontconfig` library in [Dockerfile.jvm](./src/main/docker/Dockerfile.jvm)
 and [Dockerfile.legacy-jar](./src/main/docker/Dockerfile.legacy-jar) to support jvm mode. 
 Both `freetype` and `fontconfig` libraries are needed for native mode in [Dockerfile.native](./src/main/docker/Dockerfile.native).
 
