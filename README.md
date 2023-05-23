@@ -24,7 +24,7 @@ curl -F "image=@/tmp/my_image.jpg"  http://localhost:8080/watermark --output /tm
 ```
 Marca d'água a imagem fornecida com algum texto no canto superior esquerdo e um ícone do Quarkus no canto inferior direito.
 
-# Usage with a client code
+# Uso com um código de cliente
 
 See [ImageResourceTest.java](./src/test/java/org/acme/awt/rest/ImageResourceTest.java). The test is executed
 in native mode with:
