@@ -15,7 +15,7 @@ Observação `microdnf` comando para instalar a biblioteca `fontconfig` em [Dock
 e [Dockerfile.legacy-jar](./src/main/docker/Dockerfile.legacy-jar) para suportar o modo jvm.
 As bibliotecas `freetype` e `fontconfig` são necessárias para o modo nativo em [Dockerfile.native](./src/main/docker/Dockerfile.native).
 
-# Usage with curl
+# Uso com curl
 
 e.g.
 
