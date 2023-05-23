@@ -22,7 +22,7 @@ e.g.
 ```bash
 curl -F "image=@/tmp/my_image.jpg"  http://localhost:8080/watermark --output /tmp/result.png
 ```
-Watermarks the given image with some text in the top left corner and a Quarkus icon in the right bottom corner.
+Marca d'água a imagem fornecida com algum texto no canto superior esquerdo e um ícone do Quarkus no canto inferior direito.
 
 # Usage with a client code
 
