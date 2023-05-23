@@ -26,7 +26,7 @@ Marca d'água a imagem fornecida com algum texto no canto superior esquerdo e um
 
 # Uso com um código de cliente
 
-See [ImageResourceTest.java](./src/test/java/org/acme/awt/rest/ImageResourceTest.java). The test is executed
+Veja [ImageResourceTest.java](./src/test/java/org/acme/awt/rest/ImageResourceTest.java). The test is executed
 in native mode with:
 
 ```bash
