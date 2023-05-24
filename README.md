@@ -35,7 +35,7 @@ in native mode with:
 Para executar testes nativos localmente, é necessário um JDK 11.0.13+ com Mandrel (ou GraalVM) 21.3+.
 Além disso, as bibliotecas `freetype-devel` e `fontconfig` devem ser instaladas.
 
-# What the result looks like
+# Como é o resultado
 
 This is an example of what this quick start does to an image:
 
