@@ -37,6 +37,6 @@ Além disso, as bibliotecas `freetype-devel` e `fontconfig` devem ser instaladas
 
 # Como é o resultado
 
-This is an example of what this quick start does to an image:
+Este é um exemplo do que este início rápido faz com uma imagem:
 
 ![Alt text](./doc/example.png)
