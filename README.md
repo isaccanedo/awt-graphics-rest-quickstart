@@ -32,8 +32,8 @@ in native mode with:
 ```bash
 ./mvnw clean verify -Pnative
 ```
-To run native tests locally, a JDK 11.0.13+ with Mandrel (or GraalVM) 21.3+ is required.
-Additionally, `freetype-devel` and `fontconfig` libraries must be installed. 
+Para executar testes nativos localmente, é necessário um JDK 11.0.13+ com Mandrel (ou GraalVM) 21.3+.
+Além disso, as bibliotecas `freetype-devel` e `fontconfig` devem ser instaladas.
 
 # What the result looks like
 
